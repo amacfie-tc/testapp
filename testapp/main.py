@@ -3,3 +3,7 @@ def double(n: int) -> int:
 
 def increment(n: int) -> int:
     return n + 1
+
+def divide_by_3(n: int) -> float:
+    return n / 3
+
